@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1000" width="1920" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D8E3EC"/><stop offset="1" stop-color="#AFC4D4"/></linearGradient></defs>
+<rect width="1920" height="1000" fill="url(#g)"/>
+<circle cx="667" cy="265" r="528" fill="#AFC4D4" opacity=".35"/><circle cx="858" cy="854" r="317" fill="#AFC4D4" opacity=".35"/><circle cx="124" cy="931" r="431" fill="#AFC4D4" opacity=".35"/><path d="M1838 0 L1404 1000" stroke="#6F8FA5" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#6F8FA5" text-anchor="middle">
+<text x="960.0" y="476.0" font-size="28.0" letter-spacing="4.8" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="960.0" y="536.0" font-size="40">Reviews hero — smiling patient leaving, wide</text>
+<text x="960.0" y="588.0" font-size="26.0" opacity=".8">replace with assets/images/reviews-hero.jpg · 1920×1000</text>
+</g></svg>

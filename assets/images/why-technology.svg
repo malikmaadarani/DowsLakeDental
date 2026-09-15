@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6E6E3"/><stop offset="1" stop-color="#C7C9C4"/></linearGradient></defs>
+<rect width="1400" height="1000" fill="url(#g)"/>
+<circle cx="245" cy="931" r="448" fill="#C7C9C4" opacity=".35"/><circle cx="408" cy="489" r="341" fill="#C7C9C4" opacity=".35"/><circle cx="888" cy="808" r="575" fill="#C7C9C4" opacity=".35"/><path d="M680 0 L436 1000" stroke="#8F938D" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#8F938D" text-anchor="middle">
+<text x="700.0" y="482.6" font-size="20.299999999999997" letter-spacing="3.48" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="700.0" y="526.1" font-size="29">Why us — modern technology in use</text>
+<text x="700.0" y="563.8" font-size="18.85" opacity=".8">replace with assets/images/why-technology.jpg · 1400×1000</text>
+</g></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1000" width="1920" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0E6D8"/><stop offset="1" stop-color="#DCC9AE"/></linearGradient></defs>
+<rect width="1920" height="1000" fill="url(#g)"/>
+<circle cx="1122" cy="134" r="260" fill="#DCC9AE" opacity=".35"/><circle cx="29" cy="818" r="582" fill="#DCC9AE" opacity=".35"/><circle cx="210" cy="539" r="321" fill="#DCC9AE" opacity=".35"/><path d="M888 0 L589 1000" stroke="#B79B72" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#B79B72" text-anchor="middle">
+<text x="960.0" y="476.0" font-size="28.0" letter-spacing="4.8" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="960.0" y="536.0" font-size="40">New patients hero — front desk welcome, wide</text>
+<text x="960.0" y="588.0" font-size="26.0" opacity=".8">replace with assets/images/newpatients-hero.jpg · 1920×1000</text>
+</g></svg>

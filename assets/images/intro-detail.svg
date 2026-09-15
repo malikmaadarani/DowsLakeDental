@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0E6D8"/><stop offset="1" stop-color="#DCC9AE"/></linearGradient></defs>
+<rect width="800" height="800" fill="url(#g)"/>
+<circle cx="434" cy="60" r="263" fill="#DCC9AE" opacity=".35"/><circle cx="228" cy="645" r="231" fill="#DCC9AE" opacity=".35"/><circle cx="590" cy="599" r="403" fill="#DCC9AE" opacity=".35"/><path d="M50 0 L-263 800" stroke="#B79B72" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#B79B72" text-anchor="middle">
+<text x="400.0" y="386.8" font-size="15.399999999999999" letter-spacing="2.6399999999999997" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="400.0" y="419.8" font-size="22">Detail — hands, instruments, or a smile</text>
+<text x="400.0" y="448.4" font-size="14.3" opacity=".8">replace with assets/images/intro-detail.jpg · 800×800</text>
+</g></svg>

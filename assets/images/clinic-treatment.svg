@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCE6D8"/><stop offset="1" stop-color="#B3C7AA"/></linearGradient></defs>
+<rect width="1400" height="1000" fill="url(#g)"/>
+<circle cx="128" cy="577" r="280" fill="#B3C7AA" opacity=".35"/><circle cx="1267" cy="210" r="504" fill="#B3C7AA" opacity=".35"/><circle cx="1393" cy="544" r="468" fill="#B3C7AA" opacity=".35"/><path d="M643 0 L205 1000" stroke="#7E9973" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#7E9973" text-anchor="middle">
+<text x="700.0" y="482.6" font-size="20.299999999999997" letter-spacing="3.48" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="700.0" y="526.1" font-size="29">Treatment room</text>
+<text x="700.0" y="563.8" font-size="18.85" opacity=".8">replace with assets/images/clinic-treatment.jpg · 1400×1000</text>
+</g></svg>

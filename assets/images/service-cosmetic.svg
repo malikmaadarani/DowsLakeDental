@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0E6D8"/><stop offset="1" stop-color="#DCC9AE"/></linearGradient></defs>
+<rect width="1400" height="1000" fill="url(#g)"/>
+<circle cx="1142" cy="586" r="410" fill="#DCC9AE" opacity=".35"/><circle cx="696" cy="711" r="429" fill="#DCC9AE" opacity=".35"/><circle cx="1217" cy="508" r="546" fill="#DCC9AE" opacity=".35"/><path d="M934 0 L699 1000" stroke="#B79B72" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#B79B72" text-anchor="middle">
+<text x="700.0" y="482.6" font-size="20.299999999999997" letter-spacing="3.48" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="700.0" y="526.1" font-size="29">Cosmetic dentistry — confident smile</text>
+<text x="700.0" y="563.8" font-size="18.85" opacity=".8">replace with assets/images/service-cosmetic.jpg · 1400×1000</text>
+</g></svg>

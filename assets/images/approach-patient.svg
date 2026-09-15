@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1280" width="1920" height="1280">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCE6D8"/><stop offset="1" stop-color="#B3C7AA"/></linearGradient></defs>
+<rect width="1920" height="1280" fill="url(#g)"/>
+<circle cx="570" cy="850" r="503" fill="#B3C7AA" opacity=".35"/><circle cx="1398" cy="779" r="438" fill="#B3C7AA" opacity=".35"/><circle cx="309" cy="169" r="410" fill="#B3C7AA" opacity=".35"/><path d="M309 0 L-9 1280" stroke="#7E9973" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#7E9973" text-anchor="middle">
+<text x="960.0" y="616.0" font-size="28.0" letter-spacing="4.8" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="960.0" y="676.0" font-size="40">Dentist or team talking with a patient</text>
+<text x="960.0" y="728.0" font-size="26.0" opacity=".8">replace with assets/images/approach-patient.jpg · 1920×1280</text>
+</g></svg>

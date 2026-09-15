@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" width="1000" height="1250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6E6E3"/><stop offset="1" stop-color="#C7C9C4"/></linearGradient></defs>
+<rect width="1000" height="1250" fill="url(#g)"/>
+<circle cx="627" cy="399" r="372" fill="#C7C9C4" opacity=".35"/><circle cx="837" cy="820" r="366" fill="#C7C9C4" opacity=".35"/><circle cx="204" cy="1060" r="502" fill="#C7C9C4" opacity=".35"/><path d="M364 0 L-210 1250" stroke="#8F938D" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#8F938D" text-anchor="middle">
+<text x="500.0" y="611.8" font-size="15.399999999999999" letter-spacing="2.6399999999999997" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="500.0" y="644.8" font-size="22">Ashley — portrait</text>
+<text x="500.0" y="673.4" font-size="14.3" opacity=".8">replace with assets/images/team-ashley.jpg · 1000×1250</text>
+</g></svg>

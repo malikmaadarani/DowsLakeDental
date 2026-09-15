@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" width="1000" height="1250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0E6D8"/><stop offset="1" stop-color="#DCC9AE"/></linearGradient></defs>
+<rect width="1000" height="1250" fill="url(#g)"/>
+<circle cx="706" cy="1112" r="263" fill="#DCC9AE" opacity=".35"/><circle cx="776" cy="1081" r="402" fill="#DCC9AE" opacity=".35"/><circle cx="658" cy="186" r="383" fill="#DCC9AE" opacity=".35"/><path d="M530 0 L143 1250" stroke="#B79B72" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#B79B72" text-anchor="middle">
+<text x="500.0" y="611.8" font-size="15.399999999999999" letter-spacing="2.6399999999999997" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="500.0" y="644.8" font-size="22">Briana — portrait</text>
+<text x="500.0" y="673.4" font-size="14.3" opacity=".8">replace with assets/images/team-briana.jpg · 1000×1250</text>
+</g></svg>

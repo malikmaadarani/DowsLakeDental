@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" width="1000" height="1250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCE6D8"/><stop offset="1" stop-color="#B3C7AA"/></linearGradient></defs>
+<rect width="1000" height="1250" fill="url(#g)"/>
+<circle cx="29" cy="57" r="393" fill="#B3C7AA" opacity=".35"/><circle cx="483" cy="530" r="349" fill="#B3C7AA" opacity=".35"/><circle cx="709" cy="1239" r="426" fill="#B3C7AA" opacity=".35"/><path d="M457 0 L-113 1250" stroke="#7E9973" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#7E9973" text-anchor="middle">
+<text x="500.0" y="611.8" font-size="15.399999999999999" letter-spacing="2.6399999999999997" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="500.0" y="644.8" font-size="22">Michelle — portrait</text>
+<text x="500.0" y="673.4" font-size="14.3" opacity=".8">replace with assets/images/team-michelle.jpg · 1000×1250</text>
+</g></svg>

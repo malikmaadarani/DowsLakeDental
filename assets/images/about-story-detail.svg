@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6E6E3"/><stop offset="1" stop-color="#C7C9C4"/></linearGradient></defs>
+<rect width="800" height="800" fill="url(#g)"/>
+<circle cx="628" cy="26" r="236" fill="#C7C9C4" opacity=".35"/><circle cx="212" cy="628" r="392" fill="#C7C9C4" opacity=".35"/><circle cx="152" cy="649" r="329" fill="#C7C9C4" opacity=".35"/><path d="M355 0 L-153 800" stroke="#8F938D" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#8F938D" text-anchor="middle">
+<text x="400.0" y="386.8" font-size="15.399999999999999" letter-spacing="2.6399999999999997" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="400.0" y="419.8" font-size="22">Small editorial detail for the story</text>
+<text x="400.0" y="448.4" font-size="14.3" opacity=".8">replace with assets/images/about-story-detail.jpg · 800×800</text>
+</g></svg>

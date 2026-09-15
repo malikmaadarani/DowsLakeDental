@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1000" width="1920" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6E6E3"/><stop offset="1" stop-color="#C7C9C4"/></linearGradient></defs>
+<rect width="1920" height="1000" fill="url(#g)"/>
+<circle cx="1853" cy="476" r="585" fill="#C7C9C4" opacity=".35"/><circle cx="299" cy="626" r="555" fill="#C7C9C4" opacity=".35"/><circle cx="971" cy="673" r="429" fill="#C7C9C4" opacity=".35"/><path d="M319 0 L-161 1000" stroke="#8F938D" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#8F938D" text-anchor="middle">
+<text x="960.0" y="476.0" font-size="28.0" letter-spacing="4.8" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="960.0" y="536.0" font-size="40">Services hero — treatment room, wide</text>
+<text x="960.0" y="588.0" font-size="26.0" opacity=".8">replace with assets/images/services-hero.jpg · 1920×1000</text>
+</g></svg>

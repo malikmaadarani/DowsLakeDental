@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#CFE3E0"/><stop offset="1" stop-color="#9DC3BE"/></linearGradient></defs>
+<rect width="1200" height="1500" fill="url(#g)"/>
+<circle cx="1016" cy="165" r="385" fill="#9DC3BE" opacity=".35"/><circle cx="919" cy="822" r="581" fill="#9DC3BE" opacity=".35"/><circle cx="569" cy="280" r="719" fill="#9DC3BE" opacity=".35"/><path d="M881 0 L400 1500" stroke="#5E8F89" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#5E8F89" text-anchor="middle">
+<text x="600.0" y="735.0" font-size="17.5" letter-spacing="3.0" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="600.0" y="772.5" font-size="25">Dr. El-Hawary — professional portrait</text>
+<text x="600.0" y="805.0" font-size="16.25" opacity=".8">replace with assets/images/dentist-portrait.jpg · 1200×1500</text>
+</g></svg>

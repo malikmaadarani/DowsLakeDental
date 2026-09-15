@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6E6E3"/><stop offset="1" stop-color="#C7C9C4"/></linearGradient></defs>
+<rect width="1000" height="1000" fill="url(#g)"/>
+<circle cx="599" cy="945" r="482" fill="#C7C9C4" opacity=".35"/><circle cx="370" cy="306" r="377" fill="#C7C9C4" opacity=".35"/><circle cx="813" cy="184" r="374" fill="#C7C9C4" opacity=".35"/><path d="M83 0 L-411 1000" stroke="#8F938D" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#8F938D" text-anchor="middle">
+<text x="500.0" y="486.8" font-size="15.399999999999999" letter-spacing="2.6399999999999997" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="500.0" y="519.8" font-size="22">3D scanner / equipment close-up</text>
+<text x="500.0" y="548.4" font-size="14.3" opacity=".8">replace with assets/images/clinic-equipment.jpg · 1000×1000</text>
+</g></svg>

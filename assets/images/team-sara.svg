@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" width="1000" height="1250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#CFE3E0"/><stop offset="1" stop-color="#9DC3BE"/></linearGradient></defs>
+<rect width="1000" height="1250" fill="url(#g)"/>
+<circle cx="930" cy="342" r="432" fill="#9DC3BE" opacity=".35"/><circle cx="790" cy="456" r="522" fill="#9DC3BE" opacity=".35"/><circle cx="554" cy="1029" r="418" fill="#9DC3BE" opacity=".35"/><path d="M651 0 L337 1250" stroke="#5E8F89" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#5E8F89" text-anchor="middle">
+<text x="500.0" y="611.8" font-size="15.399999999999999" letter-spacing="2.6399999999999997" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="500.0" y="644.8" font-size="22">Sara — portrait</text>
+<text x="500.0" y="673.4" font-size="14.3" opacity=".8">replace with assets/images/team-sara.jpg · 1000×1250</text>
+</g></svg>

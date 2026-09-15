@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0E6D8"/><stop offset="1" stop-color="#DCC9AE"/></linearGradient></defs>
+<rect width="1200" height="1500" fill="url(#g)"/>
+<circle cx="225" cy="696" r="607" fill="#DCC9AE" opacity=".35"/><circle cx="107" cy="209" r="300" fill="#DCC9AE" opacity=".35"/><circle cx="1160" cy="309" r="574" fill="#DCC9AE" opacity=".35"/><path d="M207 0 L-179 1500" stroke="#B79B72" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#B79B72" text-anchor="middle">
+<text x="600.0" y="735.0" font-size="17.5" letter-spacing="3.0" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="600.0" y="772.5" font-size="25">Our story — early days or the founders</text>
+<text x="600.0" y="805.0" font-size="16.25" opacity=".8">replace with assets/images/about-story.jpg · 1200×1500</text>
+</g></svg>

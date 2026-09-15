@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D8E3EC"/><stop offset="1" stop-color="#AFC4D4"/></linearGradient></defs>
+<rect width="1400" height="1000" fill="url(#g)"/>
+<circle cx="1278" cy="921" r="562" fill="#AFC4D4" opacity=".35"/><circle cx="3" cy="490" r="584" fill="#AFC4D4" opacity=".35"/><circle cx="704" cy="818" r="579" fill="#AFC4D4" opacity=".35"/><path d="M173 0 L-365 1000" stroke="#6F8FA5" stroke-width="2" opacity=".25"/>
+<g font-family="Helvetica, Arial, sans-serif" fill="#6F8FA5" text-anchor="middle">
+<text x="700.0" y="482.6" font-size="20.299999999999997" letter-spacing="3.48" font-weight="700">PHOTO PLACEHOLDER</text>
+<text x="700.0" y="526.1" font-size="29">Why us — calm patient in the chair</text>
+<text x="700.0" y="563.8" font-size="18.85" opacity=".8">replace with assets/images/why-anxiety.jpg · 1400×1000</text>
+</g></svg>
